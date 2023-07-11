@@ -41,3 +41,18 @@ Adding a new branch
 - git remote add origin "name of the branch" 
 
 - git push --set-upstream origin master (this command pushes the repo to the cloud)
+
+Pulling from GitHub: 
+- pull (option to do either fetch or merge)
+
+fetch: Gets all of the changes for the branch 
+merge: Will push all of the changes to merge 
+
+Pushing to github: 
+- Push: meaning pushing your local repositity to github. 
+
+GitHub: 
+- Study GitHub flow, theoritical 
+Notes: you can host your entire website on GitHub! 
+
+new
