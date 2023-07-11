@@ -51,6 +51,11 @@ merge: Will push all of the changes to merge
 Pushing to github: 
 - Push: meaning pushing your local repositity to github. 
 
+GitHub Checking the difference: 
+- Git diff origin/master 
+
+git merge origin/master.
+
 GitHub: 
 - Study GitHub flow, theoritical 
 Notes: you can host your entire website on GitHub! 
